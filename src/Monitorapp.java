@@ -1,6 +1,6 @@
 
 public class Monitorapp {
-
+//Main 
 	public static void main(String[] args) {
 		
 		Monitor monitor1=new Monitor();
@@ -19,7 +19,7 @@ public class Monitorapp {
 		}
 
 	}
-
+// End of main
 	
     
 }
